@@ -442,10 +442,6 @@ const TodoApp = () => {
           )}
         </div>
 
-        
-        <div className="mt-8 pt-6 border-t border-gray-200 text-center text-gray-500">
-          <p>💡 This app stores data locally during the session. To connect to MongoDB, you'll need to set up a backend server.</p>
-        </div>
       </div>
     </div>
   );
